@@ -1,0 +1,19 @@
+{
+  "ignition": {
+    "version": "3.3.0"
+  },
+  "passwd": {
+    "users": [
+      {
+        "groups": [
+          "wheel",
+          "sudo"
+        ],
+        "name": "dylank",
+        "sshAuthorizedKeys": [
+          "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQCfXZmSF975mb6TJBkZ2c9AWYBMg2Os2DaWI+DeM5VgAeF8d2gL3sTwW39CnnO7oEKnVclBcAA+TI4L7kK2nFdEbLIzdm0Uke6gFDEK24gJg9WYaCmbJ7m0mWZ3t4vSKslUMOxM+2XgD3lekkwP8RmuLijwvPJ9gpQcy+2M0JX0nTui7H0mWQkbgGdP6YS69465xykRnegzahxuWb+yZfw937OyRSobSJr9KBaG1X+RX6YXZL0bJb1OLlasq8ZnT+rgla6eXO1bMzTrXGsfhiPJnuo84CuLTclmLTPbfLvckV9DIc5t8riZYc8Dj5BinKec+3man/5PyoSr2T3A9wn8mmcaUS+3/s+DDDOWrXHg5VJ1pBNbtol7DZmdbAt7bCnSW4T9IMUvJOmhQrqWLcD2dZkXINuqaSoDNcV9v45E/p7rRvx7w1OUy1U+jWC1sNavOLWqDB/Z8HC6rFBOvLE+pn0vhiqIeK/fIJory/5Le8qnutik72Yvko5vtbVj6jk= dylank@Dylans-MacBook-Pro.local"
+        ]
+      }
+    ]
+  }
+}
